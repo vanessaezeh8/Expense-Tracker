@@ -8,6 +8,7 @@ export default function Home() {
     <div>
       <Header/>
       <Hero/>
+      <h1>this is good</h1>
     </div>
   )
 }
